@@ -1,3 +1,5 @@
+/*COPIERIGHT YAHIA BILAL // WORK INSTAGRAM : BILLY.YAYA5 // PERSONAL INSTAGRAM : BILLY.YAHIA__*/
+
 for(i=0; i<100; i++) {
   // Random rotation
   var randomRotation = Math.floor(Math.random() * 360);
